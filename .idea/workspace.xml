@@ -4,14 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40636e8c-16bc-4cac-a227-470bc6e9f7b1" name="Changes" comment="" />
+    <list default="true" id="40636e8c-16bc-4cac-a227-470bc6e9f7b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/POM/ANDROID/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/POM/ANDROID/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestUtils/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestUtils/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestUtils/ExtentReporterNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestUtils/ExtentReporterNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestUtils/Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestUtils/Listeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/AndroidActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/AndroidActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/AppiumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/AppiumUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/XML/Test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/XML/Test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/FormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/FormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/ProductCatalogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/ProductCatalogue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/eCOMMERCE_TC_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/eCOMMERCE_TC_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/eCOMMERCE_TC_4_Hyrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/POM/ANDROID/eCOMMERCE_TC_4_Hyrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/data.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testData/eCommerce.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testData/eCommerce.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,12 +57,137 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Orcun/IdeaProjects/AppiumFrameworkDesign/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3908046&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.POM.ANDROID" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Orcun\IdeaProjects\AppiumFrameworkDesign\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Orcun\IdeaProjects\AppiumFrameworkDesign\src\test\java\testData" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestUtils" />
+      <recent name="org.POM.ANDROID" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Orcun/IdeaProjects/AppiumFrameworkDesign/src/test/java/XML/Test1.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="POM.Android" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="POM.Android" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Orcun/IdeaProjects/AppiumFrameworkDesign/src/test/java/XML/Test1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Android" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/XML/Test1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eCOMMERCE_TC_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.POM.ANDROID.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.POM.ANDROID" />
+      <option name="MAIN_CLASS_NAME" value="org.POM.ANDROID.eCOMMERCE_TC_1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eCOMMERCE_TC_1.FillForm_ErrorValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.POM.ANDROID.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.POM.ANDROID" />
+      <option name="MAIN_CLASS_NAME" value="org.POM.ANDROID.eCOMMERCE_TC_1" />
+      <option name="METHOD_NAME" value="FillForm_ErrorValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eCOMMERCE_TC_1.FillForm_PositiveFlow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.POM.ANDROID.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.POM.ANDROID" />
+      <option name="MAIN_CLASS_NAME" value="org.POM.ANDROID.eCOMMERCE_TC_1" />
+      <option name="METHOD_NAME" value="FillForm_PositiveFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eCOMMERCE_TC_4_Hyrid.FillForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.POM.ANDROID.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.POM.ANDROID" />
+      <option name="MAIN_CLASS_NAME" value="org.POM.ANDROID.eCOMMERCE_TC_4_Hyrid" />
+      <option name="METHOD_NAME" value="FillForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Orcun/IdeaProjects/AppiumFrameworkDesign/src/test/java/XML/Test1.xml" />
+        <item itemvalue="TestNG.eCOMMERCE_TC_1.FillForm_PositiveFlow" />
+        <item itemvalue="TestNG.eCOMMERCE_TC_1" />
+        <item itemvalue="TestNG.eCOMMERCE_TC_1.FillForm_ErrorValidation" />
+        <item itemvalue="TestNG.eCOMMERCE_TC_4_Hyrid.FillForm" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,5 +198,8 @@
       <updated>1678313564782</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AppiumFrameworkDesign$C__Users_Orcun_IdeaProjects_AppiumFrameworkDesign_src_test_java_XML_Test1_xml.ic" NAME="$PROJECT_DIR$/src/test/java/XML/Test1.xml Coverage Results" MODIFIED="1679532761516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

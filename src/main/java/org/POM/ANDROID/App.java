@@ -1,4 +1,4 @@
-package org.example;
+package org.POM.ANDROID;
 
 /**
  * Hello world!
